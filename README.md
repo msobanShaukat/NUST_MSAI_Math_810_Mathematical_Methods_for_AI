@@ -141,7 +141,7 @@ NUST_MSAI_MATH_810/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/NUST_MSAI_MATH_810.git
+   git clone https://github.com/msobanShaukat/NUST_MSAI_Math_810_Mathematical_Methods_for_AI.git
    ```
 
 2. **Navigate through folders** to access specific materials
