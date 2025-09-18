@@ -155,7 +155,6 @@ NUST_MSAI_MATH_810/
 ## 👥 Contributors
 
 - **Course Instructors**: Dr. Yasir Ahmad, Dr. Soyiba Jawed
-- **Teaching Assistants**: [Names will be added]
 - **MS AI Fall 2025 Cohort**
 
 ---
