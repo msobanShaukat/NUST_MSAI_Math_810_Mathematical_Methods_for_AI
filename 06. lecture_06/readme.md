@@ -390,6 +390,4 @@
 - [ ] Watch a video on Bayesian Neural Networks.
 - [ ] Attempt the quiz problems from the slides (Pages 113–115).
 
----
 
-Let me know if you'd like a printable PDF version, flashcards, or a quiz based on these notes!
