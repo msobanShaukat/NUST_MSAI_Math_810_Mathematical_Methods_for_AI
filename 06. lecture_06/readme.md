@@ -1,6 +1,3 @@
-Here are your structured study notes based on the provided Probability Theory lecture slides, organized using the **QEC Framework**:
-
----
 
 ## 🧠 Quick Overview
 - **Probability Theory** deals with uncertainty, events, and likelihood using mathematical frameworks.
